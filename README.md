@@ -1,6 +1,6 @@
 # DevOps cheatsheet collection
 
-Welcome to the Cheat-Sheets and Documentation collection for DevOps Engineers!
+## :scroll: Welcome to the Cheat-Sheets and Documentation collection for DevOps Engineers!
 
 ![Cheat Sheet](~img/pic.jpg)
 
@@ -17,7 +17,7 @@ Welcome to the Cheat-Sheets and Documentation collection for DevOps Engineers!
 1. Docker: Docker is a tool designed to make it easier to create, deploy, and run applications using containers.
    - [Docker](pdf/docker.pdf)
    - [Docker by JRebel](pdf/docker_by_jrebel.pdf)   
-   - [Docker CheatSheet ](pdf/docker-cheatsheet linux-academy.pdf)
+   - [Docker CheatSheet](pdf/docker-cheatsheet-linux-academy.pdf)
    - [Docker CheatSheet2 ](pdf/Docker-cheatsheet2.pdf)
    - [Docker Containerization CookBook](pdf/Docker-containerization-cookbook.pdf)
    - [Docker Mastery Guide](pdf/Docker-Mastery-Guide.pdf)
