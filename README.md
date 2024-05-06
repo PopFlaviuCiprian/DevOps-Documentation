@@ -67,8 +67,8 @@ Welcome to the Cheat-Sheets and Documentation collection for DevOps Engineers!
      - [Linux Commands 1](pdf/linux-bash.pdf)
      - [Linux Commands 2](pdf/linux-bash-terminal.pdf)
      - [Linux Commands 3](pdf/linux_commands.pdf)
-	 - [Linux common issues & sollutions] (pdf/Linux-Common-Issue-&-Solution.pdf)
-	 - [Linux 101 Hacks] (pdf/Linux-101-hacks.pdf): Practical examples to build a strong foundation in Linux
+     - [Linux common issues & sollutions] (pdf/Linux-Common-Issue-&-Solution.pdf)
+     - [Linux 101 Hacks] (pdf/Linux-101-hacks.pdf): Practical examples to build a strong foundation in Linux
      - [Linux Network Tools](pdf/linux-networking-tool): A compilation of various Linux networking tools.
    - [Network-tools](pdf/linux-networing-tools.pdf): Network-tools cheat-sheet includes ping, curl, wget, ssh, and more.
    - [Cron](pdf/cron.pdf): Cron is a time-based job scheduler in Unix-like computer operating systems.
