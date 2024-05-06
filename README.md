@@ -1,6 +1,6 @@
 # DevOps cheatsheet collection
 
-Welcome to the Cheat-Sheets and Documentation collection for DevOps Engineers!
+## :scroll: Welcome to the Cheat-Sheets and Documentation collection for DevOps Engineers!
 
 ![Cheat Sheet](~img/pic.jpg)
 
@@ -17,7 +17,7 @@ Welcome to the Cheat-Sheets and Documentation collection for DevOps Engineers!
 1. Docker: Docker is a tool designed to make it easier to create, deploy, and run applications using containers.
    - [Docker](pdf/docker.pdf)
    - [Docker by JRebel](pdf/docker_by_jrebel.pdf)   
-   - [Docker CheatSheet ](pdf/docker-cheatsheet linux-academy.pdf)
+   - [Docker CheatSheet](pdf/docker-cheatsheet-linux-academy.pdf)
    - [Docker CheatSheet2 ](pdf/Docker-cheatsheet2.pdf)
    - [Docker Containerization CookBook](pdf/Docker-containerization-cookbook.pdf)
    - [Docker Mastery Guide](pdf/Docker-Mastery-Guide.pdf)
@@ -67,8 +67,8 @@ Welcome to the Cheat-Sheets and Documentation collection for DevOps Engineers!
      - [Linux Commands 1](pdf/linux-bash.pdf)
      - [Linux Commands 2](pdf/linux-bash-terminal.pdf)
      - [Linux Commands 3](pdf/linux_commands.pdf)
-	 - [Linux common issues & sollutions] (pdf/Linux-Common-Issue-&-Solution.pdf)
-	 - [Linux 101 Hacks] (pdf/Linux-101-hacks.pdf): Practical examples to build a strong foundation in Linux
+     - [Linux common issues & sollutions](pdf/Linux-Common-Issue-&-Solution.pdf)
+     - [Linux 101 Hacks](pdf/Linux-101-hacks.pdf): Practical examples to build a strong foundation in Linux
      - [Linux Network Tools](pdf/linux-networking-tool): A compilation of various Linux networking tools.
    - [Network-tools](pdf/linux-networing-tools.pdf): Network-tools cheat-sheet includes ping, curl, wget, ssh, and more.
    - [Cron](pdf/cron.pdf): Cron is a time-based job scheduler in Unix-like computer operating systems.
