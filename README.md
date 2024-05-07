@@ -29,6 +29,7 @@
 	- [Ansible Best Practices](pdf/ansible-best-practices.pdf)	
 
 1. Python: Python is an interpreted, high-level, general-purpose programming language.
+   - [Cool Python cheatsheet](pdf/Python-cheatsheet-cool.pdf)
    - [All in one Python cheatsheet](pdf/All-in-One-Python-Cheat-Sheet.pdf)
    - [Python 3 - The Basics](pdf/cheatsheet-python-grok.pdf)
    - [Python for Beginners](pdf/python_beginners.pdf)
@@ -36,7 +37,7 @@
    - [Python 100 programs](pdf/Learn-Python-With-Amazing-Experience.pdf)
    - [Python for loops](pdf/Python-For-Loop.pdf)
    - [Python while loops](pdf/Python-While-Loop.pdf)
-   - [240 Python practice exercises](pdf/240-Python-Practice-Exeecises.pdf)
+   - [240 Python practice exercises](pdf/240-Python-Practice-Exeecises.pdf)   
 
 1. Git: Git is the open-source distributed version control system that facilitates GitHub activities on your laptop or desktop.
    - [Git by Atlassian](pdf/atlassian-git-cheatsheet.pdf)
